@@ -1,7 +1,5 @@
 # [M101JS: MongoDB for Node.js Developers](https://education.mongodb.com/ "Link to MongoDB university")
-### by ANDREW ERLICHSON, SHAUN VERCH, AARON HECKMANN
-
-This course will go over basic installation, JSON, schema design, querying, insertion of data, indexing and working with language drivers. In the course, you will build a blogging platform, backed by MongoDB. Our code examples will be in Node.js.
+### by Andrew Erlichson, Shaun Verch, Aaron Heckmann
 
 ### University:
  -  MongoDB University
@@ -11,6 +9,9 @@ This course will go over basic installation, JSON, schema design, querying, inse
 
 ### Session: 
  - Jan 13th 2014 (6 weeks long)	 
+
+## About the Course
+This course will go over basic installation, JSON, schema design, querying, insertion of data, indexing and working with language drivers. In the course, you will build a blogging platform, backed by MongoDB. Our code examples will be in Node.js.
 
 ## Course Syllabus
 Units | Topics | Effort
