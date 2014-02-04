@@ -16,8 +16,7 @@ This course will go over basic installation, JSON, schema design, querying, inse
 ## Course Syllabus
 Units | Topics | Effort
 ----|------|----
-Week 1: Introduction & Overview	| Overview, Design Goals, the Mongo Shell, JSON Intro, 
-installing tools, overview of blog project. Bottle, Pymongo | Lecture Videos: 2 hours Homework: 2-4 hours 
+Week 1: Introduction & Overview	| Overview, Design Goals, the Mongo Shell, JSON Intro, installing tools, overview of blog project. Bottle, Pymongo | Lecture Videos: 2 hours Homework: 2-4 hours 
 Week 2: CRUD (Creating, Reading and Updating Data) | Mongo shell, query operators, update operators and a few commands | Lecture Videos: 2.5 hours Homework: 2-4 hours 
 Week 3: Schema Design | Patterns, case studies and tradeoffs  | Lecture Videos: 1 hour Homework: 2-4 hours 
 Week 4: Performance  | Using indexes, monitoring and understanding performance. Performance in sharded environments.  | Lecture Videos: 2 hours Homework: 2-4 hours
