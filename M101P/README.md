@@ -22,4 +22,4 @@ Week 3: Schema Design | Patterns, case studies and tradeoffs  | Lecture Videos: 
 Week 4: Performance  | Using indexes, monitoring and understanding performance. Performance in sharded environments.  | Lecture Videos: 2 hours Homework: 2-4 hours
 Week 5: Aggregation Framework | Goals, the use of the pipeline, comparison with SQL facilities. | Lecture Videos: 1.5 hours Homework: 2-4 hours 
 Week 6: Application Engineering | Drivers, Impact Of Replication And Sharding On Design And Development. | Lecture Videos: 1.5 hours Homework: 2-4 hours 
-Week 7: Mongoose | Interview with Jon Hoffman, foursquare and interview with Ryan Bubunksi, codecademy | Lecture Videos: 1.75 hours 
+Week 7: Case Studies | Interview with Jon Hoffman, foursquare and interview with Ryan Bubunksi, codecademy | Lecture Videos: 1.75 hours 
