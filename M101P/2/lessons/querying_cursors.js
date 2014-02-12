@@ -1,0 +1,1 @@
+db.scores.find( { type : "exam" } ).sort( { score : -1 } ).skip(50).limit(20)

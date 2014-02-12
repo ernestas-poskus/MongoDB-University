@@ -1,0 +1,1 @@
+db.scores.count({ type:"essay", score:{$gt:90}});

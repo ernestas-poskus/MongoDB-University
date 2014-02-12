@@ -1,0 +1,1 @@
+db.users.update({"_id": "jimmy"}, {$unset: {"interests": 1}})
