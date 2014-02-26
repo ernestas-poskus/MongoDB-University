@@ -1,0 +1,1 @@
+db.images.find({tags:'kittens'}).count()
